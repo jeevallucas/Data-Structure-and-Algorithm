@@ -1,0 +1,2 @@
+2, 'Buku B', oleh: PENGARANG B
+1, 'Buku A', oleh: PENGARANG A
